@@ -1,6 +1,5 @@
 #!/bin/bash
 #git
-sudo apt install git
 git config --global user.name "oskov"
 git config --global user.email "faklosg@gmail.com"
 
